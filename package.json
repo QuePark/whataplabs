@@ -1,0 +1,23 @@
+{
+  "name": "whataplabs",
+  "version": "1.0.0",
+  "description": "이 저장소는 와탭랩스에 과제를 제출하기 위해 만들어졌습니다.",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/QuePark/whataplabs.git"
+  },
+  "author": "Gyuha Park",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/QuePark/whataplabs/issues"
+  },
+  "homepage": "https://github.com/QuePark/whataplabs#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
